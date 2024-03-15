@@ -1,4 +1,4 @@
-filePath = 'aoc2023day5.txt'
+filePath = 'input/aoc2023day5.txt'
 
 def convert_number(num, dest_map):
     for dest_start, source_start, length in dest_map:
